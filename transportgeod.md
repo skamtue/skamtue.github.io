@@ -3,7 +3,7 @@ layout: page
 title: Transport geodesics
 ---
 
-The concept of _transport geodesics_ was introduced in [[1] and [4]](/_pages/research). 
+The concept of _transport geodesics_ was introduced in [[1] and [4]](/research.md). 
 They are traces of individual masses that move along a sequence of optimal transport plans. 
 All such traces turn out to be geodesics under the assumption that the concatenation of those transport plans is also optimal 
 (i.e., triangle inequality for L<sup>1</sup>-Wasserstein metric holds with equality).
