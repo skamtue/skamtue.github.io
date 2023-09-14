@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-Here is the [PDF](/images/cv.pdf) version (updated on April 1, 2022).
+Here is the [PDF](/images/cv.pdf) version (updated on August 2023).
