@@ -1,6 +1,6 @@
 title: "Supanat Kamtue (Phil)"
 author: "Phil Kamtue"
-description: "Yau Mathematical Sciences Center, Tsinghua University"
+description: "Department of Mathematics and Computer Science, Faculty of Science, Chulalongkorn University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -11,7 +11,7 @@ date_format: "%B %d, %Y"
 show_excerpts: false       # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true            # use a dark header
 
 # Menu
 
