@@ -1,6 +1,6 @@
 ---
-layout: page
-# title: Home
+layout: default
+title: Home
 ---
 
 <figure style="width:128px; float:left; margin:0px; padding-right:48px;">	
