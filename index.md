@@ -3,7 +3,7 @@ layout: page
 # title: 
 ---
 
-<img src="/images/pp2024.png" alt="Profile Picture" style="float:left;width:128px;">
+<img src="/images/pp2024.png" alt="Profile Picture" style="float:left;width:128px;padding-right:64px">
 Hello, I am a lecturer at [Department of Mathematics and Computer Science], Faculty of Science, Chulalongkorn University](https://math.sc.chula.ac.th/en/) in Bangkok, Thailand. 
 My research interest lies in Riemannian Geometry, Optimal Transport, and Graph Theory. In particular, I study Ricci curvature notions in discrete spaces.
 
