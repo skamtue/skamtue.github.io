@@ -1,12 +1,11 @@
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <script src="https://kit.fontawesome.com/4f5262ad07.js" crossorigin="anonymous"></script>
-</head>
-
 ---
 layout: page
 ---
 
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="https://kit.fontawesome.com/4f5262ad07.js" crossorigin="anonymous"></script>
+</head>
 
 <figure style="width:128px; float:left; margin:0px; padding-right:48px;">	
 <img src="/images/pp2024.png" style="float:left;width:128px;
