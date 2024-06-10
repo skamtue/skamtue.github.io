@@ -12,7 +12,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
 ## Contact info
 
 Name: Supanat Kamtue (Phil) ศุภณัฐ คำตื้อ <br>
-Email: supanat.k[at]chula.ac.th <br>
+Email{icon: envelope}: supanat.k[at]chula.ac.th <br>
 Office: MATH <br>
 
 
