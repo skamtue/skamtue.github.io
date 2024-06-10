@@ -1,11 +1,19 @@
 ---
 layout: page
 ---
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 
 <figure style="width:128px; float:left; margin:0px; padding-right:48px;">	
 <img src="/images/pp2024.png" style="float:left;width:128px;
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
 </figure>
+
+## Contact info
+
+Name: Supanat Kamtue (ศุภณัฐ คำตื้อ)
+
+## About me
 
 Hello, I am a lecturer at [Department of Mathematics and Computer Science](https://math.sc.chula.ac.th/en/), Faculty of Science, Chulalongkorn University in Bangkok, Thailand. My research areas are Optimal Transportation Theory, Riemannian Geometry and Graph Theory.
 
