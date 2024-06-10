@@ -18,9 +18,8 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
 <i class="fa-regular fa-address-card fa-xl"></i>  Supanat Kamtue (Phil) ศุภณัฐ คำตื้อ <br>
 <i class="fa-regular fa-envelope fa-xl"></i>   supanat.k[at]chula.ac.th <br>
 <i class="fa-solid fa-building-columns fa-xl"></i>   MATH <br>
-        Maha Vajirunhis Building, Chulalongkorn University <br>
-        อาคารมหาวชิรุณหิศ จุฬาลงกรณ์มหาวิทยาลัย 
-<i class="fa-brands fa-researchgate fa-xl"></i>
+        Department of Mathematics and Computer Science, Faculty of Science, Chulalongkorn University, Bangkok 10330, Thailand <br>
+        อาคารมหาวชิรุณหิศ จุฬาลงกรณ์มหาวิทยาลัย
 </pre>
 
 ## About me
