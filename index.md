@@ -2,6 +2,7 @@
 layout: page
 ---
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="https://kit.fontawesome.com/4f5262ad07.js" crossorigin="anonymous"></script>
 
 
 <figure style="width:128px; float:left; margin:0px; padding-right:48px;">	
