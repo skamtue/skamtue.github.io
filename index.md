@@ -12,7 +12,11 @@ Hello, I am a lecturer at [Department of Mathematics and Computer Science](https
 In 2021, I received my PhD degree from Durham University, United Kingdom, under the supervision of [Prof. Norbert Peyerimhoff](https://www.durham.ac.uk/staff/norbert-peyerimhoff/). In 2022-24, I worked as a postdoct at [Yau Mathematical Sciences Center, Tsinghua University](http://ymsc.tsinghua.ofapp.net/en) with [Prof. Yong Lin](https://ymsc.tsinghua.edu.cn/en/info/1031/1884.htm).
 
 ## Research
-My current research topic is <em>discrete geometric analysis</em>. In particular, I study mainly three different kinds of Ricci curvatures on graphs. The first notion is _Ollivier Ricci curvature_ defined via the contraction property of the L<sup>1</sup>-transportation metric. The second notion is _Bakry-&Eacute;mery curvature_ defined via Bochner's formula and carr&eacute; du champ operators. The third notion is the _entropic Ricci curvature_ defined via the displacement convexity of the entropy (in spirit of Lott-Sturm-Villani's synthetic notion of Ricci curvature on metric measure spaces).
+My current research topic is <em>discrete geometric analysis</em>. In particular, I study mainly three different kinds of discrete Ricci curvatures and their geometric implications on graphs and networks. The first notion is _Ollivier Ricci curvature_ defined via the contraction property of the L<sup>1</sup>-transportation metric. The second notion is _Bakry-&Eacute;mery curvature_ defined via Bochner's formula and carr&eacute; du champ operators. The third notion is the _entropic Ricci curvature_ defined via the displacement convexity of the entropy (in spirit of Lott-Sturm-Villani's synthetic notion of Ricci curvature on metric measure spaces).
+
+My PhD dissertation on _Discrete curvatures motivated from Riemannian geometry and optimal transport: Bonnet-Myers-type diameter bounds and rigidity_ can be found [here](http://etheses.dur.ac.uk/14124/).
+
+You are encouraged to try drawing your favorite graphs on [Graph Curvature Calculator](https://www.mas.ncl.ac.uk/graph-curvature/) and feel the curvature! This applet is created by my colleagues, David Cushing and George Stagg.
     
 <figure style="width:300px; float:left ; margin:0px; text-align:center; padding-left:32px; padding-right:32px;">	
 <img src="/images/anim-4cube.gif" style="width:300;border:5px groove #D2691E" /> 
