@@ -14,9 +14,9 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
 
 ## Contact info
 
-<i class="fa-regular fa-address-card fa-2x"></i>: Supanat Kamtue (Phil) ศุภณัฐ คำตื้อ <br>
-<i class="fa-regular fa-envelope fa-2x"></i>: supanat.k[at]chula.ac.th <br>
-Office: MATH <br>
+<i class="fa-regular fa-address-card fa-1.5x"></i>  Supanat Kamtue (Phil) ศุภณัฐ คำตื้อ <br>
+<i class="fa-regular fa-envelope fa-1.5x"></i>  supanat.k[at]chula.ac.th <br>
+<i class="fa-solid fa-building-columns"></i> MATH <br>
 
 
 ## About me
