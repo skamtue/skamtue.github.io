@@ -31,7 +31,7 @@ In 2021, I received my PhD degree from Durham University, United Kingdom, under 
 
 My current research topic is <em>discrete geometric analysis</em>. In particular, I study mainly three different kinds of discrete Ricci curvatures and their geometric implications on graphs and networks. The first notion is _Ollivier Ricci curvature_ defined via the contraction property of the L<sup>1</sup>-transportation metric. The second notion is _Bakry-&Eacute;mery curvature_ defined via Bochner's formula and carr&eacute; du champ operators. The third notion is the _entropic Ricci curvature_ defined via the displacement convexity of the entropy (in spirit of Lott-Sturm-Villani's synthetic notion of Ricci curvature on metric measure spaces).
 
-My PhD dissertation on _Discrete curvatures motivated from Riemannian geometry and optimal transport: Bonnet-Myers-type diameter bounds and rigidity_ can be found [here](http://etheses.dur.ac.uk/14124/).
+My PhD dissertation on _Discrete curvatures motivated from Riemannian geometry and optimal transport: Bonnet-Myers-type diameter bounds and rigidity_ can be found [here](http://etheses.dur.ac.uk/14124/). A more gentle introduction to discrete curvatures can also be found in my survey [here](https://doi.org/10.48550/arXiv.1803.08898).
 
 You are encouraged to try drawing your favorite graphs on [Graph Curvature Calculator](https://skamtue.github.io/graph-curvature-webapp/) and feel the curvature! This applet is created by my colleagues, David Cushing and George Stagg.
 
