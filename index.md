@@ -28,6 +28,7 @@ Hello, I am a lecturer at [Department of Mathematics and Computer Science](https
 In 2021, I received my PhD degree from Durham University, United Kingdom, under the supervision of [Prof. Norbert Peyerimhoff](https://www.durham.ac.uk/staff/norbert-peyerimhoff/). In 2022-24, I worked as a postdoct at [Yau Mathematical Sciences Center, Tsinghua University](http://ymsc.tsinghua.ofapp.net/en) with [Prof. Yong Lin](https://ymsc.tsinghua.edu.cn/en/info/1031/1884.htm).
 
 ## Research
+
 My current research topic is <em>discrete geometric analysis</em>. In particular, I study mainly three different kinds of discrete Ricci curvatures and their geometric implications on graphs and networks. The first notion is _Ollivier Ricci curvature_ defined via the contraction property of the L<sup>1</sup>-transportation metric. The second notion is _Bakry-&Eacute;mery curvature_ defined via Bochner's formula and carr&eacute; du champ operators. The third notion is the _entropic Ricci curvature_ defined via the displacement convexity of the entropy (in spirit of Lott-Sturm-Villani's synthetic notion of Ricci curvature on metric measure spaces).
 
 My PhD dissertation on _Discrete curvatures motivated from Riemannian geometry and optimal transport: Bonnet-Myers-type diameter bounds and rigidity_ can be found [here](http://etheses.dur.ac.uk/14124/).
@@ -35,12 +36,15 @@ My PhD dissertation on _Discrete curvatures motivated from Riemannian geometry a
 You are encouraged to try drawing your favorite graphs on [Graph Curvature Calculator](https://skamtue.github.io/graph-curvature-webapp/) and feel the curvature! This applet is created by my colleagues, David Cushing and George Stagg.
 
 ## Publications
-1. P. Jiradilok and S. Kamtue, _Transportation Distance between Probability Measures on the Infinite Regular Tree_, SIAM J. Discrete Math. **38** (2024), no. 1, 1113–1157. [(DOI)](https://doi.org/10.1137/21M1448781)
-2. D. Cushing, S. Kamtue, S. Liu and N. Peyerimhoff, _Bakry-&Eacute;mery curvature on graphs as an eigenvalue problem_, Calc. Var. Partial Differential Equations **61** (2022), no. 2, Paper No. 62, 33 pp. [(DOI)](https://doi.org/10.1007/s00526-021-02179-z)
+
+<ol type="1">
+<li> P. Jiradilok and S. Kamtue, _Transportation Distance between Probability Measures on the Infinite Regular Tree_, SIAM J. Discrete Math. **38** (2024), no. 1, 1113–1157. [(DOI)](https://doi.org/10.1137/21M1448781) </li>
+<li> D. Cushing, S. Kamtue, S. Liu and N. Peyerimhoff, _Bakry-&Eacute;mery curvature on graphs as an eigenvalue problem_, Calc. Var. Partial Differential Equations **61** (2022), no. 2, Paper No. 62, 33 pp. [(DOI)](https://doi.org/10.1007/s00526-021-02179-z) </li>
 3. D. Cushing, S. Kamtue, R. Kangaslampi, S. Liu and N. Peyerimhoff, _Curvatures, graph products and Ricci flatness_, J. Graph Theory **96** (2021), no. 4, 522–553. [(DOI)]( https://doi.org/10.1002/jgt.22630)
 4. D. Cushing, S. Kamtue, J. Koolen, S. Liu, F. M&uuml;nch and N. Peyerimhoff, _Rigidity for the Bonnet-Myers for graphs with respect to Ollivier Ricci curvature_, Adv. Math. **369** (2020), 107188, 53 pp. [(DOI)](https://doi.org/10.1016/j.aim.2020.107188)
 5. D. Cushing, S. Kamtue, N. Peyerimhoff and L. Watson May, _Quartic graphs which are Bakry-&Eacute;mery curvature sharp_, Discrete Math. **343** (2020), no. 3, 111767, 15 pp. [(DOI)](https://doi.org/10.1016/j.disc.2019.111767)
 6. D. Cushing and S. Kamtue, _Long-scale Ollivier Ricci curvature of graphs_, Anal. Geom. Metr. Spaces **7** (2019), no. 1, 22–44. [(DOI)](https://doi.org/10.1515/agms-2019-0003)
+</ol>
     
 <figure style="width:300px; float:left ; margin:0px; text-align:center; padding-left:32px; padding-right:32px;">	
 <img src="/images/anim-4cube.gif" style="width:300;border:5px groove #D2691E" /> 
