@@ -50,10 +50,10 @@ You are encouraged to try drawing your favorite graphs on [Graph Curvature Calcu
 
 ## Preprints
 
-1. S. Kamtue, S. Liu, F. Münch and N. Peyerimhoff, _Bakry-Émery calculus for entropic curvature, new diameter estimates, and spectral gaps_, [arXiv:2312.09686](arXiv:2312.09686). 
-2. S. Kamtue, P. Luangaram and S. Woramongkhon, _Disentangling global equity market instability: a network analysis_, [arXiv:2111.14227](arXiv:2111.14227). 
-3. S. Kamtue, _Bonnet-Myers sharp graphs of diameter three_, [arXiv:2005.06704](arXiv:2005.06704).
-4. S. Kamtue, _A note on a Bonnet-Myers type diameter bound for graphs with positive entropic Ricci curvature_, [arXiv:2003.01160](arXiv:2003.01160). 
+1. S. Kamtue, S. Liu, F. Münch and N. Peyerimhoff, _Bakry-Émery calculus for entropic curvature, new diameter estimates, and spectral gaps_, [arXiv:2312.09686](https://doi.org/10.48550/arXiv.2312.09686). 
+2. S. Kamtue, P. Luangaram and S. Woramongkhon, _Disentangling global equity market instability: a network analysis_, [arXiv:2111.14227](https://doi.org/10.48550/arXiv.2111.14227). 
+3. S. Kamtue, _Bonnet-Myers sharp graphs of diameter three_, [arXiv:2005.06704](https://doi.org/10.48550/arXiv.2005.06704).
+4. S. Kamtue, _A note on a Bonnet-Myers type diameter bound for graphs with positive entropic Ricci curvature_, [arXiv:2003.01160](https://doi.org/10.48550/arXiv.2003.01160). 
     
 <figure style="width:300px; float:left ; margin:0px; text-align:center; padding-left:32px; padding-right:32px;">	
 <img src="/images/anim-4cube.gif" style="width:300;border:5px groove #D2691E" /> 
