@@ -38,12 +38,12 @@ You are encouraged to try drawing your favorite graphs on [Graph Curvature Calcu
 ## Publications
 
 1. D. Cushing, David, S. Kamtue, E. Law, S. Liu, F. Münch and N. Peyerimhoff, _A note on Steinerberger's curvature for graphs_, J. Comb. **16** (2025), no. 4, 503–530. [(DOI)](https://doi.org/10.4310/JOC.250923001928)
-2. D. Cushing, S. Kamtue, R. Kangaslampi, S. Liu, F. Münch and N. Peyerimhoff, _Bakry-Émery and Ollivier Ricci curvature of Cayley graphs_, Electron. J. Combin. **32** (2025), no. 3, Paper No. 3.21, 29 pp. [(DOI)](https://doi.org/10.37236/13434)</li> 
+2. D. Cushing, S. Kamtue, R. Kangaslampi, S. Liu, F. Münch and N. Peyerimhoff, _Bakry-Émery and Ollivier Ricci curvature of Cayley graphs_, Electron. J. Combin. **32** (2025), no. 3, Paper No. 3.21, 29 pp. [(DOI)](https://doi.org/10.37236/13434) 
 3. D. Cushing, S. Kamtue, S. Liu, F. Münch, N. Peyerimhoff and B. Snodgrass, _Bakry-Émery curvature sharpness and curvature flow in finite weighted graphs: theory_, Manuscripta Math. 176 (2025), no. 1, Paper No. 11, 53 pp. [(DOI)](https://doi.org/10.1007/s00229-024-01606-7)
 4. P. Jiradilok and S. Kamtue, _Transportation Distance between Probability Measures on the Infinite Regular Tree_, SIAM J. Discrete Math. **38** (2024), no. 1, 1113–1157. [(DOI)](https://doi.org/10.1137/21M1448781)
 5. D. Cushing, S. Kamtue, S. Liu, F. Münch, N. Peyerimhoff and B. Snodgrass, _Bakry-Émery Curvature Sharpness and Curvature Flow in Finite Weighted Graphs: Implementation_, Axioms **12** (2023), 577. [(DOI)](https://doi.org/10.3390/axioms12060577)
 6. D. Cushing, S. Kamtue, S. Liu and N. Peyerimhoff, _Bakry-Émery curvature on graphs as an eigenvalue problem_, Calc. Var. Partial Differential Equations **61** (2022), no. 2, Paper No. 62, 33 pp. [(DOI)](https://doi.org/10.1007/s00526-021-02179-z)
-7. D. Cushing, S. Kamtue, R. Kangaslampi, S. Liu and N. Peyerimhoff, _Curvatures, graph products and Ricci flatness_, J. Graph Theory **96** (2021), no. 4, 522–553. [(DOI)]( https://doi.org/10.1002/jgt.22630) </li> 
+7. D. Cushing, S. Kamtue, R. Kangaslampi, S. Liu and N. Peyerimhoff, _Curvatures, graph products and Ricci flatness_, J. Graph Theory **96** (2021), no. 4, 522–553. [(DOI)]( https://doi.org/10.1002/jgt.22630) 
 8. D. Cushing, S. Kamtue, J. Koolen, S. Liu, F. Münch and N. Peyerimhoff, _Rigidity for the Bonnet-Myers for graphs with respect to Ollivier Ricci curvature_, Adv. Math. **369** (2020), 107188, 53 pp. [(DOI)](https://doi.org/10.1016/j.aim.2020.107188) 
 9. D. Cushing, S. Kamtue, N. Peyerimhoff and L. Watson May, _Quartic graphs which are Bakry-Émery curvature sharp_, Discrete Math. **343** (2020), no. 3, 111767, 15 pp. [(DOI)](https://doi.org/10.1016/j.disc.2019.111767) 
 10. D. Cushing and S. Kamtue, _Long-scale Ollivier Ricci curvature of graphs_, Anal. Geom. Metr. Spaces **7** (2019), no. 1, 22–44. [(DOI)](https://doi.org/10.1515/agms-2019-0003)
