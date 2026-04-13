@@ -40,14 +40,24 @@ You are encouraged to try drawing your favorite graphs on [Graph Curvature Calcu
 <ol type="1">
     <li> D. Cushing, David, S. Kamtue, E. Law, S. Liu, F. M&uuml;nch and N. Peyerimhoff, _A note on Steinerberger's curvature for graphs_, J. Comb. **16** (2025), no. 4, 503-530. [(DOI)](https://doi.org/10.4310/JOC.250923001928)</li> 
     <li> D. Cushing, S. Kamtue, R. Kangaslampi, S. Liu, Münch, F. M&uuml;nch and N. Peyerimhoff, _Bakry-&Eacute;mery and Ollivier Ricci curvature of Cayley graphs_, Electron. J. Combin. **32** (2025), no. 3, Paper No. 3.21, 29 pp.[(DOI)](https://doi.org/10.37236/13434)</li> 
-    <li> D. Cushing, S. Kamtue, R. Kangaslampi, S. Liu, Münch, F. M&uuml;nch, N. Peyerimhoff and B. Snodgrass, _Bakry-&Eacute;mery curvature sharpness and curvature flow in finite weighted graphs: theory_, Manuscripta Math. 176 (2025), no. 1, Paper No. 11, 53 pp. [(DOI)](https://doi.org/10.1007/s00229-024-01606-7)</li> 
+    <li> D. Cushing, S. Kamtue, S. Liu, F. M&uuml;nch, N. Peyerimhoff and B. Snodgrass, _Bakry-&Eacute;mery curvature sharpness and curvature flow in finite weighted graphs: theory_, Manuscripta Math. 176 (2025), no. 1, Paper No. 11, 53 pp. [(DOI)](https://doi.org/10.1007/s00229-024-01606-7)</li> 
     <li> P. Jiradilok and S. Kamtue, _Transportation Distance between Probability Measures on the Infinite Regular Tree_, SIAM J. Discrete Math. **38** (2024), no. 1, 1113–1157. [(DOI)](https://doi.org/10.1137/21M1448781) </li>
+    <li> D. Cushing, S. Kamtue, S. Liu, F. M&uuml;nch, N. Peyerimhoff and B. Snodgrass, _Bakry-&Eacute;mery Curvature Sharpness and Curvature Flow in Finite Weighted Graphs: Implementation_, Axioms **12** (2023), 577. [(DOI)](https://doi.org/10.3390/axioms12060577)</li>
     <li> D. Cushing, S. Kamtue, S. Liu and N. Peyerimhoff, _Bakry-&Eacute;mery curvature on graphs as an eigenvalue problem_, Calc. Var. Partial Differential Equations **61** (2022), no. 2, Paper No. 62, 33 pp. [(DOI)](https://doi.org/10.1007/s00526-021-02179-z) </li>
     <li> D. Cushing, S. Kamtue, R. Kangaslampi, S. Liu and N. Peyerimhoff, _Curvatures, graph products and Ricci flatness_, J. Graph Theory **96** (2021), no. 4, 522–553. [(DOI)]( https://doi.org/10.1002/jgt.22630) </li> 
     <li>  D. Cushing, S. Kamtue, J. Koolen, S. Liu, F. M&uuml;nch and N. Peyerimhoff, _Rigidity for the Bonnet-Myers for graphs with respect to Ollivier Ricci curvature_, Adv. Math. **369** (2020), 107188, 53 pp. [(DOI)](https://doi.org/10.1016/j.aim.2020.107188) </li> 
     <li>  D. Cushing, S. Kamtue, N. Peyerimhoff and L. Watson May, _Quartic graphs which are Bakry-&Eacute;mery curvature sharp_, Discrete Math. **343** (2020), no. 3, 111767, 15 pp. [(DOI)](https://doi.org/10.1016/j.disc.2019.111767) </li> 
     <li>  D. Cushing and S. Kamtue, _Long-scale Ollivier Ricci curvature of graphs_, Anal. Geom. Metr. Spaces **7** (2019), no. 1, 22–44. [(DOI)](https://doi.org/10.1515/agms-2019-0003) </li> 
     </ol>
+
+## Preprints
+
+<ol type="1">
+    <li> S. Kamtue, S. Liu, F. M&uuml;nch and N. Peyerimhoff, _Bakry-&Eacute;mery calculus for entropic curvature, new diameter estimates, and spectral gaps_, [arXiv:2312.09686](arXiv:2312.09686). </li>
+    <li> S. Kamtue, P. Luangaram and S. Woramongkhon, _Disentangling global equity market instability: a network analysis_, [arXiv:2111.14227](arXiv:2111.14227). </li>
+    <li> S. Kamtue, _Bonnet-Myers sharp graphs of diameter three_, [arXiv:2005.06704](arXiv:2005.06704). </li>
+    <li> S. Kamtue, _A note on a Bonnet-Myers type diameter bound for graphs with positive entropic Ricci curvature_, [arXiv:2003.01160](arXiv:2003.01160). </li>
+</ol>
     
 <figure style="width:300px; float:left ; margin:0px; text-align:center; padding-left:32px; padding-right:32px;">	
 <img src="/images/anim-4cube.gif" style="width:300;border:5px groove #D2691E" /> 
