@@ -32,7 +32,7 @@ My current research topic is <em>discrete geometric analysis</em>. In particular
 
 My PhD dissertation on _Discrete curvatures motivated from Riemannian geometry and optimal transport: Bonnet-Myers-type diameter bounds and rigidity_ can be found [here](http://etheses.dur.ac.uk/14124/).
 
-You are encouraged to try drawing your favorite graphs on [Graph Curvature Calculator](https://www.mas.ncl.ac.uk/graph-curvature/) and feel the curvature! This applet is created by my colleagues, David Cushing and George Stagg.
+You are encouraged to try drawing your favorite graphs on [Graph Curvature Calculator](https://skamtue.github.io/graph-curvature-webapp/) and feel the curvature! This applet is created by my colleagues, David Cushing and George Stagg.
 
 ## Publications
 1. P. Jiradilok and S. Kamtue, _Transportation Distance between Probability Measures on the Infinite Regular Tree_, SIAM J. Discrete Math. **38** (2024), no. 1, 1113–1157. [(DOI)](https://doi.org/10.1137/21M1448781)
